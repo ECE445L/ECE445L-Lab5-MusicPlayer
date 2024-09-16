@@ -6,4 +6,3 @@
 #include <stdint.h>
 
     // write this
-    // ***solution***
