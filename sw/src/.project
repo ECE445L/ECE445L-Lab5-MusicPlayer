@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Lab4</name>
+	<name>Lab5</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,11 +26,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Lab_Brd_Port_Init.c</name>
-			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/Lab_Brd_Port_Init.c</locationURI>
-		</link>
-		<link>
 			<name>PLL.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/inc/PLL.c</locationURI>
@@ -39,6 +34,11 @@
 			<name>ST7735.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/inc/ST7735.c</locationURI>
+		</link>
+		<link>
+			<name>SysTickInts.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/SysTickInts.c</locationURI>
 		</link>
 		<link>
 			<name>TLV5616.c</name>

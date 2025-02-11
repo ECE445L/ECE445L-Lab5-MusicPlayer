@@ -1,8 +1,8 @@
 // File **********Switch.h***********
-// Lab 4
+// Lab 5
 // Programs to interface with Switch buttons   
-// EE445L Fall 2015
-//    Jonathan W. Valvano 9/22/15
+// Spring 2025
+
 // 2-bit input, positive logic switches, positive logic software
 
     // write this
