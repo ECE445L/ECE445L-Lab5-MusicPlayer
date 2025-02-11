@@ -1,12 +1,6 @@
-# Lab 4 Music Player and Audio Amp
+# Lab 5 Music Player and Audio Amp
 
-# ECE445L-Lab4
-
-Lab 4 Template.
-
-[Lab 4 README](Lab04.docx)
-
-[Lab 4 README](Lab04Report.docx)
+# ECE445L-Lab5
 
 
 ## HW
