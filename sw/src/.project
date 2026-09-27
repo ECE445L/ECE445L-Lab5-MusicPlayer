@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Lab5</name>
+	<name>ECE445L_Lab5</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,24 +26,34 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>PLL.c</name>
+			<name>Clock.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/PLL.c</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/Clock.c</locationURI>
 		</link>
 		<link>
-			<name>ST7735.c</name>
+			<name>ST7735_SDC.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/ST7735.c</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/ST7735_SDC.c</locationURI>
 		</link>
 		<link>
-			<name>SysTickInts.c</name>
+			<name>SPI.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/SysTickInts.c</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/SPI.c</locationURI>
 		</link>
 		<link>
-			<name>TLV5616.c</name>
+			<name>Timer.c</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/inc/TLV5616.c</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/Timer.c</locationURI>
+		</link>
+		<link>
+			<name>MCP4921.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/MCP4921.c</locationURI>
+		</link>
+		<link>
+			<name>LaunchPad.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/inc/LaunchPad.c</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
